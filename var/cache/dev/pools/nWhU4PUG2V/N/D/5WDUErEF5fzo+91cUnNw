@@ -1,3 +1,0 @@
-<?php //%255BSonata%255CMediaBundle%255CModel%255CMediaInterface%2523getEnabled%255D%255B1%255D
-
-return [PHP_INT_MAX, []];
